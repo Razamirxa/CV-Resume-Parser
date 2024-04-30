@@ -1,2 +1,9 @@
 # CV-Resume-Parser
 Resume parser offers several benefits . Time-saving:  Improved efficiency:  Consistency:  Improved candidate experience:  Better data management:  In summary, resume parsing can help organizations to streamline their recruitment process, save time, and improve the overall quality of their hiring decisions.
+Resume parser offers several benefits to recruiters and organizations that process a large volume of resumes. Some of the key benefits include:
+1.	Time-saving: Resume parsing automates the process of extracting information from resumes, saving recruiters and hiring managers a significant amount of time. It eliminates the need for manual data entry and allows them to focus on more strategic tasks such as interviewing candidates.
+2.	Improved efficiency: Resume parsing improves the efficiency of the recruitment process by quickly identifying qualified candidates based on their skills, education, and experience. This ensures that recruiters and hiring managers are able to fill open positions faster.
+3.	Consistency: Resume parsing ensures consistency in the screening process by applying the same criteria to all resumes. This reduces the risk of human error and ensures that all candidates are evaluated fairly.
+4.	Improved candidate experience: Resume parsing allows recruiters to respond to candidates faster, reducing the time between application submission and interview scheduling. This improves the candidate experience and can help to build a positive employer brand.
+5.	Better data management: Resume parsing allows recruiters to store candidate information in a structured format, making it easier to search and analyze candidate data. This can help to identify trends and improve the overall recruitment process.
+In summary, resume parsing can help organizations to streamline their recruitment process, save time, and improve the overall quality of their hiring decisions.
